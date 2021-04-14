@@ -9,7 +9,7 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script>
-function cargarDatos()
+function cargarDatos1()
 {
 
 //$.getJSON("http://localhost/iot/oficina/Datos_Arduino/info_arduino.php").done(function(datos
